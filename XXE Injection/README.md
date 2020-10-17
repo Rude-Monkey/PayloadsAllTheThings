@@ -155,7 +155,7 @@ We try to display the content of the file `/etc/passwd`
   <contact>
     <name>Jean &xxe; Dupont</name>
     <phone>00 11 22 33 44</phone>
-    <adress>42 rue du CTF</adress>
+    <address>42 rue du CTF</address>
     <zipcode>75000</zipcode>
     <city>Paris</city>
   </contact>
