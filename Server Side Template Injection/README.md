@@ -471,7 +471,7 @@ Bypassing most common filters ('.','_','|join','[',']','mro' and 'base') by http
 {{ request }} would return a request object like com.[...].context.TemplateContextRequest@23548206
 ```
 
-Jinjava is an open source project developped by Hubspot, available at [https://github.com/HubSpot/jinjava/](https://github.com/HubSpot/jinjava/)
+Jinjava is an open source project developed by Hubspot, available at [https://github.com/HubSpot/jinjava/](https://github.com/HubSpot/jinjava/)
 
 ### Command execution 
 
