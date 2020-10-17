@@ -383,7 +383,7 @@ Source: https://jinja.palletsprojects.com/en/2.11.x/templates/#debug-statement
 
 ### Remote Code Execution
 
-Listen for connexion
+Listen for connection
 
 ```bash
 nv -lnvp 8000
