@@ -19,7 +19,7 @@
 
 1. Request password reset to your email address
 2. Click on the password reset link
-3. Dont change password
+3. Don't change password
 4. Click any 3rd party websites(eg: Facebook, twitter)
 5. Intercept the request in Burp Suite proxy
 6. Check if the referer header is leaking password reset token.
