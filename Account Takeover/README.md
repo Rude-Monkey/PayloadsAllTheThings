@@ -107,7 +107,7 @@ Refer to **HTTP Request Smuggling** vulnerability page.
 3. Final request could look like the following
     ```powershell
     GET /  HTTP/1.1
-    Transfert-Encoding: chunked
+    Transfer-Encoding: chunked
     Host: something.com
     User-Agent: Smuggler/v1.0
     Content-Length: 83
